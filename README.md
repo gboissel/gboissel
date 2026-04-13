@@ -8,7 +8,7 @@ Passionate about software development and system architecture, I focus on buildi
 ### 🚀 Projects & Focus
 * **🔭 Current Project:** Working on **[Paralysis](https://github.com/Stellaris-7/)** –  
 *An horror game code with C# and the engine Godot*.
-* **🌱 Learning Path:** Mastering **React** for modern web interfaces and **C#** for robust backend/application/game development.
+* **🌱 Currently Learning :** Mastering **React** for modern web interfaces and **C#** for robust backend/application/game development.
 * **🔍 Seeking Opportunity:** Currently looking for a **Computer Science Internship** to contribute to professional projects and agile teams.
 
 ---
@@ -20,7 +20,7 @@ Passionate about software development and system architecture, I focus on buildi
 | **Languages** | Python, Java, JavaScript, PhP, C#, HTML & CSS, Dart  |
 | **Frameworks** | Flask, Flutter, React, tailswindcss, bootstrap, |
 | **Databases** | MySQL, MariaDb, Oracle, SQLite |
-| **Tools & OS** | Git, Docker, Linux, Agile Methods,VSCode, Android studio |
+| **Tools & OS** | Git, Docker, Linux, Agile Methods,VSCode, Android studio, Godot |
 
 ---
 
