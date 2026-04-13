@@ -17,7 +17,7 @@ Passionate about software development and system architecture, I focus on buildi
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | Python, Java, JavaScript, PhP, C#, HTML & CSS, Dart  |
-| **Frameworks** | Flask, Flutter, React, tailswindcss, bootstrap, |
+| **Frameworks** | Flask, Flutter, React, tailswindcss, bootstrap |
 | **Databases** | MySQL, MariaDb, Oracle, SQLite |
 | **Tools & OS** | Git, Docker, Linux, Agile Methods,VSCode, Android studio, Godot |
 
