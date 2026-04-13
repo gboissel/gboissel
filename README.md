@@ -26,13 +26,13 @@ Passionate about software development and system architecture, I focus on buildi
 
 ### 📫 Connect with me
 * **Email:** [boissel.gauthier@laposte.net](mailto:boissel.gauthier@laposte.net)
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+* **LinkedIn:** [Gauthier Boissel](www.linkedin.com/in/gauthier-boissel-b21969389/)
 * **Location:** Orléans, France
 
 ---
 
 ### 📊 GitHub Activity
-![Gauthier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gboissel&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gboissel&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gboissel&theme=transparent)
 
 ---
