@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science Student @IUT d'Orléans  
+Computer Science Student @BUT-info-IUT-d-Orleans
 Passionate about software development and system architecture, I focus on building clean, efficient, and maintainable code.  
   
 ## 🚀 Projects & Focus:  
