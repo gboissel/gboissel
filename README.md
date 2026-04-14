@@ -21,16 +21,13 @@ Passionate about software development and system architecture, I focus on buildi
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
 ## ✨ Tools & Methodology
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
-# 📊 GitHub Stats:
-<table border="0">
-  <tr align="center">
-    <td>
-      <img src="https://github-readme-stats.shion.dev/api?username=gboissel&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170px" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=gboissel&theme=dark&hide_border=false" height="170px" />
-    </td>
-  </tr>
-</table>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gboissel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.shion.dev/api?username=gboissel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://streak-stats.demolab.com/?user=gboissel&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=gboissel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
