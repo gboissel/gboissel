@@ -33,4 +33,4 @@ Passionate about software development and system architecture, I focus on buildi
   </tr>
 </table>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gboissel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gboissel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
