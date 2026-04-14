@@ -10,7 +10,7 @@ Passionate about software development and system architecture, I focus on buildi
 
 ## 🌐 Socials:
 📧 [boissel.gauthier@laposte.net](mailto:boissel.gauthier@laposte.net)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) Boissel Gauthier](www.linkedin.com/in/gauthier-boissel-b21969389) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) Boissel Gauthier](https://www.linkedin.com/in/gauthier-boissel-b21969389/) 
 
 
 # 💻 Tech Stack:
