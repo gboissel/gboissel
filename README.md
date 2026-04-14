@@ -1,7 +1,8 @@
 # 💫 About Me:
-Computer Science Student @IUT d'Orléans <br>
-Passionate about software development and system architecture, I focus on building clean, efficient, and maintainable code.<br>
-🚀 Projects & Focus:  
+Computer Science Student @IUT d'Orléans  
+Passionate about software development and system architecture, I focus on building clean, efficient, and maintainable code.  
+  
+## 🚀 Projects & Focus:  
 - 🔭 **Current Project**: Working on [Paralysis](https://github.com/Stellaris-7/) – A horror game built with C# and the Godot Engine.<br>
 - 🌱 **Learning in progress**: React for modern web interfaces and C# for robust backend, application and game development.<br>    
 - 🔍 **Seeking Opportunity**: Currently looking for a Computer Science Internship to contribute to professional projects and agile teams.<br>
