@@ -1,7 +1,7 @@
 # 💫 About Me: 
 - 🎓 **Education**: Computer Science Student at IUT d'Orléans
 - 💼 **Status**: Currently looking for an internship
-- 🌌 **Community**: Proud member of [![](https://avatars.githubusercontent.com/u/257107608?s=200&v=4)](@Stellaris-7)
+- 🌌 **Community**: Proud member of <img src="ton-image.png" height="1.2em" style="vertical-align: middle;"> <a href="#">@Stellaris-7</a>
 
 > Passionate about software development and system architecture, I focus on building clean, efficient, and maintainable code. 
 
