@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm a Computer Science student for a Bachelor Degrees at the University of Orléans Institute of Technology (IUT)  
-Passionate about software development and system architecture, I focus on building clean, efficient, and maintainable code.  
+Computer Science Student pursuing a Bachelor of Technology (B.U.T.) at the University of Orléans Institute of Technology.  
+Passionate about software development and system architecture, I focus on building clean, efficient, and maintainable code. 
 
 ## 🚀 Projects & Focus:  
 - 🔭 **Current Project**: Working on [Paralysis](https://github.com/Stellaris-7/) – A horror game built with C# and the Godot Engine.<br>
