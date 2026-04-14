@@ -1,11 +1,13 @@
-# 💫 About Me:
-Computer Science Student pursuing a Bachelor of Technology (B.U.T.) at the University of Orléans Institute of Technology.  
-Passionate about software development and system architecture, I focus on building clean, efficient, and maintainable code. 
+# 💫 About Me: 
+- 🎓 **Education**: Computer Science Student at IUT d'Orléans
+- 💼 **Status**: Currently looking for an internship
+- 🌌 **Community**: Proud member of @Stellaris-7
+
+> Passionate about software development and system architecture, I focus on building clean, efficient, and maintainable code. 
 
 ## 🚀 Projects & Focus:  
 - 🔭 **Current Project**: Working on [Paralysis](https://github.com/Stellaris-7/) – A horror game built with C# and the Godot Engine.<br>
 - 🌱 **Learning in progress**: React for modern web interfaces and C# for robust backend, application and game development.<br>    
-- 🔍 **Seeking Opportunity**: Currently looking for a Computer Science Internship to contribute to professional projects and agile teams.<br>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:boissel.gauthier@laposte.net)
