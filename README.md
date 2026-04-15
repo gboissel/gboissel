@@ -1,6 +1,6 @@
 # 💫 About Me: 
 - 🎓 **Education**: Computer Science Student at IUT d'Orléans
-- 💼 **Status**: Currently looking for an internship
+- 💼 **Status**: Currently looking for an internship in application development
 - 🌌 **Community**: Proud member of <a href="https://github.com/Stellaris-7"> @Stellaris-7</a>
 
 > Passionate about software development and system architecture, I focus on building clean, efficient, and maintainable code. 
